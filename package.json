@@ -21,7 +21,7 @@
     "bootstrap-vue": "^2.0.0-rc.11",
     "cross-env": "^5.2.0",
     "dotenv": "^8.0.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-formidable": "^1.2.0",
     "formidable": "^1.2.1",
     "nuxt": "^2.0.0",
